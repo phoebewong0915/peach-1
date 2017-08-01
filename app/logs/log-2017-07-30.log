@@ -1,0 +1,545 @@
+INFO - 2017-07-30 10:07:14 --> Config Class Initialized
+INFO - 2017-07-30 10:07:14 --> Hooks Class Initialized
+DEBUG - 2017-07-30 10:07:14 --> UTF-8 Support Enabled
+INFO - 2017-07-30 10:07:14 --> Utf8 Class Initialized
+INFO - 2017-07-30 10:07:14 --> URI Class Initialized
+INFO - 2017-07-30 10:07:14 --> Router Class Initialized
+INFO - 2017-07-30 10:07:14 --> Output Class Initialized
+INFO - 2017-07-30 10:07:14 --> Security Class Initialized
+DEBUG - 2017-07-30 10:07:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 10:07:14 --> Input Class Initialized
+INFO - 2017-07-30 10:07:14 --> Language Class Initialized
+INFO - 2017-07-30 10:07:14 --> Loader Class Initialized
+INFO - 2017-07-30 10:07:14 --> Helper loaded: url_helper
+INFO - 2017-07-30 10:07:14 --> Helper loaded: date_helper
+INFO - 2017-07-30 10:07:14 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 10:07:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 10:07:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 10:07:14 --> Controller Class Initialized
+INFO - 2017-07-30 10:07:14 --> Helper loaded: form_helper
+INFO - 2017-07-30 10:07:14 --> Form Validation Class Initialized
+INFO - 2017-07-30 10:07:14 --> User Agent Class Initialized
+INFO - 2017-07-30 10:07:14 --> Helper loaded: security_helper
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+ERROR - 2017-07-30 10:07:14 --> Severity: Notice --> Array to string conversion /usr/share/peach/app/controllers/Guest.php 159
+INFO - 2017-07-30 10:07:14 --> $post_kept DATA::Array
+INFO - 2017-07-30 10:07:14 --> Config Class Initialized
+INFO - 2017-07-30 10:07:14 --> Hooks Class Initialized
+DEBUG - 2017-07-30 10:07:14 --> UTF-8 Support Enabled
+INFO - 2017-07-30 10:07:14 --> Utf8 Class Initialized
+INFO - 2017-07-30 10:07:14 --> URI Class Initialized
+INFO - 2017-07-30 10:07:14 --> Router Class Initialized
+INFO - 2017-07-30 10:07:14 --> Output Class Initialized
+INFO - 2017-07-30 10:07:14 --> Security Class Initialized
+DEBUG - 2017-07-30 10:07:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 10:07:14 --> Input Class Initialized
+INFO - 2017-07-30 10:07:14 --> Language Class Initialized
+INFO - 2017-07-30 10:07:14 --> Loader Class Initialized
+INFO - 2017-07-30 10:07:14 --> Helper loaded: url_helper
+INFO - 2017-07-30 10:07:14 --> Helper loaded: date_helper
+INFO - 2017-07-30 10:07:14 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 10:07:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 10:07:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 10:07:14 --> Controller Class Initialized
+INFO - 2017-07-30 10:07:14 --> Helper loaded: form_helper
+INFO - 2017-07-30 10:07:14 --> Form Validation Class Initialized
+INFO - 2017-07-30 10:07:14 --> User Agent Class Initialized
+INFO - 2017-07-30 10:07:14 --> Helper loaded: security_helper
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+INFO - 2017-07-30 10:07:14 --> Final output sent to browser
+DEBUG - 2017-07-30 10:07:14 --> Total execution time: 0.0433
+INFO - 2017-07-30 10:07:14 --> Config Class Initialized
+INFO - 2017-07-30 10:07:14 --> Hooks Class Initialized
+DEBUG - 2017-07-30 10:07:14 --> UTF-8 Support Enabled
+INFO - 2017-07-30 10:07:14 --> Utf8 Class Initialized
+INFO - 2017-07-30 10:07:14 --> URI Class Initialized
+INFO - 2017-07-30 10:07:14 --> Router Class Initialized
+INFO - 2017-07-30 10:07:14 --> Output Class Initialized
+INFO - 2017-07-30 10:07:14 --> Security Class Initialized
+DEBUG - 2017-07-30 10:07:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 10:07:14 --> Input Class Initialized
+INFO - 2017-07-30 10:07:14 --> Language Class Initialized
+INFO - 2017-07-30 10:07:14 --> Loader Class Initialized
+INFO - 2017-07-30 10:07:14 --> Helper loaded: url_helper
+INFO - 2017-07-30 10:07:14 --> Helper loaded: date_helper
+INFO - 2017-07-30 10:07:14 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 10:07:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 10:07:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 10:07:14 --> Controller Class Initialized
+INFO - 2017-07-30 10:07:14 --> Helper loaded: form_helper
+INFO - 2017-07-30 10:07:14 --> Form Validation Class Initialized
+INFO - 2017-07-30 10:07:14 --> Helper loaded: html_helper
+INFO - 2017-07-30 10:07:14 --> Helper loaded: file_helper
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+INFO - 2017-07-30 10:07:14 --> Model Class Initialized
+ERROR - 2017-07-30 10:07:14 --> Severity: Notice --> Undefined property: stdClass::$title /usr/share/peach/app/views/templates/hkt/ads.php 8
+INFO - 2017-07-30 10:07:14 --> File loaded: /usr/share/peach/app/views/templates/hkt/ads.php
+INFO - 2017-07-30 10:07:14 --> Final output sent to browser
+DEBUG - 2017-07-30 10:07:14 --> Total execution time: 0.0130
+INFO - 2017-07-30 11:15:19 --> Config Class Initialized
+INFO - 2017-07-30 11:15:19 --> Hooks Class Initialized
+DEBUG - 2017-07-30 11:15:19 --> UTF-8 Support Enabled
+INFO - 2017-07-30 11:15:19 --> Utf8 Class Initialized
+INFO - 2017-07-30 11:15:19 --> URI Class Initialized
+INFO - 2017-07-30 11:15:19 --> Router Class Initialized
+INFO - 2017-07-30 11:15:19 --> Output Class Initialized
+INFO - 2017-07-30 11:15:19 --> Security Class Initialized
+DEBUG - 2017-07-30 11:15:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 11:15:19 --> Input Class Initialized
+INFO - 2017-07-30 11:15:19 --> Language Class Initialized
+INFO - 2017-07-30 11:15:19 --> Loader Class Initialized
+INFO - 2017-07-30 11:15:19 --> Helper loaded: url_helper
+INFO - 2017-07-30 11:15:19 --> Helper loaded: date_helper
+INFO - 2017-07-30 11:15:19 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 11:15:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 11:15:19 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 11:15:19 --> Controller Class Initialized
+INFO - 2017-07-30 11:15:19 --> Helper loaded: form_helper
+INFO - 2017-07-30 11:15:19 --> Form Validation Class Initialized
+INFO - 2017-07-30 11:15:19 --> User Agent Class Initialized
+INFO - 2017-07-30 11:15:19 --> Helper loaded: security_helper
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+ERROR - 2017-07-30 11:15:19 --> Severity: Notice --> Array to string conversion /usr/share/peach/app/controllers/Guest.php 159
+INFO - 2017-07-30 11:15:19 --> $post_kept DATA::Array
+INFO - 2017-07-30 11:15:19 --> Config Class Initialized
+INFO - 2017-07-30 11:15:19 --> Hooks Class Initialized
+DEBUG - 2017-07-30 11:15:19 --> UTF-8 Support Enabled
+INFO - 2017-07-30 11:15:19 --> Utf8 Class Initialized
+INFO - 2017-07-30 11:15:19 --> URI Class Initialized
+INFO - 2017-07-30 11:15:19 --> Router Class Initialized
+INFO - 2017-07-30 11:15:19 --> Output Class Initialized
+INFO - 2017-07-30 11:15:19 --> Security Class Initialized
+DEBUG - 2017-07-30 11:15:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 11:15:19 --> Input Class Initialized
+INFO - 2017-07-30 11:15:19 --> Language Class Initialized
+INFO - 2017-07-30 11:15:19 --> Loader Class Initialized
+INFO - 2017-07-30 11:15:19 --> Helper loaded: url_helper
+INFO - 2017-07-30 11:15:19 --> Helper loaded: date_helper
+INFO - 2017-07-30 11:15:19 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 11:15:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 11:15:19 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 11:15:19 --> Controller Class Initialized
+INFO - 2017-07-30 11:15:19 --> Helper loaded: form_helper
+INFO - 2017-07-30 11:15:19 --> Form Validation Class Initialized
+INFO - 2017-07-30 11:15:19 --> User Agent Class Initialized
+INFO - 2017-07-30 11:15:19 --> Helper loaded: security_helper
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+INFO - 2017-07-30 11:15:19 --> Final output sent to browser
+DEBUG - 2017-07-30 11:15:19 --> Total execution time: 0.0153
+INFO - 2017-07-30 11:15:19 --> Config Class Initialized
+INFO - 2017-07-30 11:15:19 --> Hooks Class Initialized
+DEBUG - 2017-07-30 11:15:19 --> UTF-8 Support Enabled
+INFO - 2017-07-30 11:15:19 --> Utf8 Class Initialized
+INFO - 2017-07-30 11:15:19 --> URI Class Initialized
+INFO - 2017-07-30 11:15:19 --> Router Class Initialized
+INFO - 2017-07-30 11:15:19 --> Output Class Initialized
+INFO - 2017-07-30 11:15:19 --> Security Class Initialized
+DEBUG - 2017-07-30 11:15:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 11:15:19 --> Input Class Initialized
+INFO - 2017-07-30 11:15:19 --> Language Class Initialized
+INFO - 2017-07-30 11:15:19 --> Loader Class Initialized
+INFO - 2017-07-30 11:15:19 --> Helper loaded: url_helper
+INFO - 2017-07-30 11:15:19 --> Helper loaded: date_helper
+INFO - 2017-07-30 11:15:19 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 11:15:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 11:15:19 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 11:15:19 --> Controller Class Initialized
+INFO - 2017-07-30 11:15:19 --> Helper loaded: form_helper
+INFO - 2017-07-30 11:15:19 --> Form Validation Class Initialized
+INFO - 2017-07-30 11:15:19 --> Helper loaded: html_helper
+INFO - 2017-07-30 11:15:19 --> Helper loaded: file_helper
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+INFO - 2017-07-30 11:15:19 --> Model Class Initialized
+ERROR - 2017-07-30 11:15:19 --> Severity: Notice --> Undefined property: stdClass::$title /usr/share/peach/app/views/templates/hkt/ads.php 8
+INFO - 2017-07-30 11:15:19 --> File loaded: /usr/share/peach/app/views/templates/hkt/ads.php
+INFO - 2017-07-30 11:15:19 --> Final output sent to browser
+DEBUG - 2017-07-30 11:15:19 --> Total execution time: 0.0135
+INFO - 2017-07-30 12:07:26 --> Config Class Initialized
+INFO - 2017-07-30 12:07:26 --> Hooks Class Initialized
+DEBUG - 2017-07-30 12:07:26 --> UTF-8 Support Enabled
+INFO - 2017-07-30 12:07:26 --> Utf8 Class Initialized
+INFO - 2017-07-30 12:07:26 --> URI Class Initialized
+INFO - 2017-07-30 12:07:26 --> Router Class Initialized
+INFO - 2017-07-30 12:07:26 --> Output Class Initialized
+INFO - 2017-07-30 12:07:26 --> Security Class Initialized
+DEBUG - 2017-07-30 12:07:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 12:07:26 --> Input Class Initialized
+INFO - 2017-07-30 12:07:26 --> Language Class Initialized
+INFO - 2017-07-30 12:07:26 --> Loader Class Initialized
+INFO - 2017-07-30 12:07:26 --> Helper loaded: url_helper
+INFO - 2017-07-30 12:07:26 --> Helper loaded: date_helper
+INFO - 2017-07-30 12:07:26 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 12:07:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 12:07:26 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 12:07:26 --> Controller Class Initialized
+INFO - 2017-07-30 12:07:26 --> Helper loaded: form_helper
+INFO - 2017-07-30 12:07:26 --> Form Validation Class Initialized
+INFO - 2017-07-30 12:07:26 --> User Agent Class Initialized
+INFO - 2017-07-30 12:07:26 --> Helper loaded: security_helper
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+ERROR - 2017-07-30 12:07:26 --> Severity: Notice --> Array to string conversion /usr/share/peach/app/controllers/Guest.php 159
+INFO - 2017-07-30 12:07:26 --> $post_kept DATA::Array
+INFO - 2017-07-30 12:07:26 --> Config Class Initialized
+INFO - 2017-07-30 12:07:26 --> Hooks Class Initialized
+DEBUG - 2017-07-30 12:07:26 --> UTF-8 Support Enabled
+INFO - 2017-07-30 12:07:26 --> Utf8 Class Initialized
+INFO - 2017-07-30 12:07:26 --> URI Class Initialized
+INFO - 2017-07-30 12:07:26 --> Router Class Initialized
+INFO - 2017-07-30 12:07:26 --> Output Class Initialized
+INFO - 2017-07-30 12:07:26 --> Security Class Initialized
+DEBUG - 2017-07-30 12:07:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 12:07:26 --> Input Class Initialized
+INFO - 2017-07-30 12:07:26 --> Language Class Initialized
+INFO - 2017-07-30 12:07:26 --> Loader Class Initialized
+INFO - 2017-07-30 12:07:26 --> Helper loaded: url_helper
+INFO - 2017-07-30 12:07:26 --> Helper loaded: date_helper
+INFO - 2017-07-30 12:07:26 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 12:07:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 12:07:26 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 12:07:26 --> Controller Class Initialized
+INFO - 2017-07-30 12:07:26 --> Helper loaded: form_helper
+INFO - 2017-07-30 12:07:26 --> Form Validation Class Initialized
+INFO - 2017-07-30 12:07:26 --> User Agent Class Initialized
+INFO - 2017-07-30 12:07:26 --> Helper loaded: security_helper
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+INFO - 2017-07-30 12:07:26 --> Final output sent to browser
+DEBUG - 2017-07-30 12:07:26 --> Total execution time: 0.0152
+INFO - 2017-07-30 12:07:26 --> Config Class Initialized
+INFO - 2017-07-30 12:07:26 --> Hooks Class Initialized
+DEBUG - 2017-07-30 12:07:26 --> UTF-8 Support Enabled
+INFO - 2017-07-30 12:07:26 --> Utf8 Class Initialized
+INFO - 2017-07-30 12:07:26 --> URI Class Initialized
+INFO - 2017-07-30 12:07:26 --> Router Class Initialized
+INFO - 2017-07-30 12:07:26 --> Output Class Initialized
+INFO - 2017-07-30 12:07:26 --> Security Class Initialized
+DEBUG - 2017-07-30 12:07:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 12:07:26 --> Input Class Initialized
+INFO - 2017-07-30 12:07:26 --> Language Class Initialized
+INFO - 2017-07-30 12:07:26 --> Loader Class Initialized
+INFO - 2017-07-30 12:07:26 --> Helper loaded: url_helper
+INFO - 2017-07-30 12:07:26 --> Helper loaded: date_helper
+INFO - 2017-07-30 12:07:26 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 12:07:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 12:07:26 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 12:07:26 --> Controller Class Initialized
+INFO - 2017-07-30 12:07:26 --> Helper loaded: form_helper
+INFO - 2017-07-30 12:07:26 --> Form Validation Class Initialized
+INFO - 2017-07-30 12:07:26 --> Helper loaded: html_helper
+INFO - 2017-07-30 12:07:26 --> Helper loaded: file_helper
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+INFO - 2017-07-30 12:07:26 --> Model Class Initialized
+ERROR - 2017-07-30 12:07:26 --> Severity: Notice --> Undefined property: stdClass::$title /usr/share/peach/app/views/templates/hkt/ads.php 8
+INFO - 2017-07-30 12:07:26 --> File loaded: /usr/share/peach/app/views/templates/hkt/ads.php
+INFO - 2017-07-30 12:07:26 --> Final output sent to browser
+DEBUG - 2017-07-30 12:07:26 --> Total execution time: 0.0134
+INFO - 2017-07-30 13:01:30 --> Config Class Initialized
+INFO - 2017-07-30 13:01:30 --> Hooks Class Initialized
+DEBUG - 2017-07-30 13:01:30 --> UTF-8 Support Enabled
+INFO - 2017-07-30 13:01:30 --> Utf8 Class Initialized
+INFO - 2017-07-30 13:01:30 --> URI Class Initialized
+INFO - 2017-07-30 13:01:30 --> Router Class Initialized
+INFO - 2017-07-30 13:01:30 --> Output Class Initialized
+INFO - 2017-07-30 13:01:30 --> Security Class Initialized
+DEBUG - 2017-07-30 13:01:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 13:01:30 --> Input Class Initialized
+INFO - 2017-07-30 13:01:30 --> Language Class Initialized
+INFO - 2017-07-30 13:01:30 --> Loader Class Initialized
+INFO - 2017-07-30 13:01:30 --> Helper loaded: url_helper
+INFO - 2017-07-30 13:01:30 --> Helper loaded: date_helper
+INFO - 2017-07-30 13:01:30 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 13:01:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 13:01:30 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 13:01:30 --> Controller Class Initialized
+INFO - 2017-07-30 13:01:30 --> Helper loaded: form_helper
+INFO - 2017-07-30 13:01:30 --> Form Validation Class Initialized
+INFO - 2017-07-30 13:01:30 --> User Agent Class Initialized
+INFO - 2017-07-30 13:01:30 --> Helper loaded: security_helper
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+ERROR - 2017-07-30 13:01:30 --> Severity: Notice --> Array to string conversion /usr/share/peach/app/controllers/Guest.php 159
+INFO - 2017-07-30 13:01:30 --> $post_kept DATA::Array
+INFO - 2017-07-30 13:01:30 --> Config Class Initialized
+INFO - 2017-07-30 13:01:30 --> Hooks Class Initialized
+DEBUG - 2017-07-30 13:01:30 --> UTF-8 Support Enabled
+INFO - 2017-07-30 13:01:30 --> Utf8 Class Initialized
+INFO - 2017-07-30 13:01:30 --> URI Class Initialized
+INFO - 2017-07-30 13:01:30 --> Router Class Initialized
+INFO - 2017-07-30 13:01:30 --> Output Class Initialized
+INFO - 2017-07-30 13:01:30 --> Security Class Initialized
+DEBUG - 2017-07-30 13:01:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 13:01:30 --> Input Class Initialized
+INFO - 2017-07-30 13:01:30 --> Language Class Initialized
+INFO - 2017-07-30 13:01:30 --> Loader Class Initialized
+INFO - 2017-07-30 13:01:30 --> Helper loaded: url_helper
+INFO - 2017-07-30 13:01:30 --> Helper loaded: date_helper
+INFO - 2017-07-30 13:01:30 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 13:01:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 13:01:30 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 13:01:30 --> Controller Class Initialized
+INFO - 2017-07-30 13:01:30 --> Helper loaded: form_helper
+INFO - 2017-07-30 13:01:30 --> Form Validation Class Initialized
+INFO - 2017-07-30 13:01:30 --> User Agent Class Initialized
+INFO - 2017-07-30 13:01:30 --> Helper loaded: security_helper
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+INFO - 2017-07-30 13:01:30 --> Final output sent to browser
+DEBUG - 2017-07-30 13:01:30 --> Total execution time: 0.0362
+INFO - 2017-07-30 13:01:30 --> Config Class Initialized
+INFO - 2017-07-30 13:01:30 --> Hooks Class Initialized
+DEBUG - 2017-07-30 13:01:30 --> UTF-8 Support Enabled
+INFO - 2017-07-30 13:01:30 --> Utf8 Class Initialized
+INFO - 2017-07-30 13:01:30 --> URI Class Initialized
+INFO - 2017-07-30 13:01:30 --> Router Class Initialized
+INFO - 2017-07-30 13:01:30 --> Output Class Initialized
+INFO - 2017-07-30 13:01:30 --> Security Class Initialized
+DEBUG - 2017-07-30 13:01:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 13:01:30 --> Input Class Initialized
+INFO - 2017-07-30 13:01:30 --> Language Class Initialized
+INFO - 2017-07-30 13:01:30 --> Loader Class Initialized
+INFO - 2017-07-30 13:01:30 --> Helper loaded: url_helper
+INFO - 2017-07-30 13:01:30 --> Helper loaded: date_helper
+INFO - 2017-07-30 13:01:30 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 13:01:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 13:01:30 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 13:01:30 --> Controller Class Initialized
+INFO - 2017-07-30 13:01:30 --> Helper loaded: form_helper
+INFO - 2017-07-30 13:01:30 --> Form Validation Class Initialized
+INFO - 2017-07-30 13:01:30 --> Helper loaded: html_helper
+INFO - 2017-07-30 13:01:30 --> Helper loaded: file_helper
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+INFO - 2017-07-30 13:01:30 --> Model Class Initialized
+ERROR - 2017-07-30 13:01:30 --> Severity: Notice --> Undefined property: stdClass::$title /usr/share/peach/app/views/templates/hkt/ads.php 8
+INFO - 2017-07-30 13:01:30 --> File loaded: /usr/share/peach/app/views/templates/hkt/ads.php
+INFO - 2017-07-30 13:01:30 --> Final output sent to browser
+DEBUG - 2017-07-30 13:01:30 --> Total execution time: 0.0127
+INFO - 2017-07-30 14:09:36 --> Config Class Initialized
+INFO - 2017-07-30 14:09:36 --> Hooks Class Initialized
+DEBUG - 2017-07-30 14:09:36 --> UTF-8 Support Enabled
+INFO - 2017-07-30 14:09:36 --> Utf8 Class Initialized
+INFO - 2017-07-30 14:09:36 --> URI Class Initialized
+INFO - 2017-07-30 14:09:36 --> Router Class Initialized
+INFO - 2017-07-30 14:09:36 --> Output Class Initialized
+INFO - 2017-07-30 14:09:36 --> Security Class Initialized
+DEBUG - 2017-07-30 14:09:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 14:09:36 --> Input Class Initialized
+INFO - 2017-07-30 14:09:36 --> Language Class Initialized
+INFO - 2017-07-30 14:09:36 --> Loader Class Initialized
+INFO - 2017-07-30 14:09:36 --> Helper loaded: url_helper
+INFO - 2017-07-30 14:09:36 --> Helper loaded: date_helper
+INFO - 2017-07-30 14:09:36 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 14:09:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 14:09:36 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 14:09:36 --> Controller Class Initialized
+INFO - 2017-07-30 14:09:36 --> Helper loaded: form_helper
+INFO - 2017-07-30 14:09:36 --> Form Validation Class Initialized
+INFO - 2017-07-30 14:09:36 --> User Agent Class Initialized
+INFO - 2017-07-30 14:09:36 --> Helper loaded: security_helper
+INFO - 2017-07-30 14:09:36 --> Model Class Initialized
+INFO - 2017-07-30 14:09:36 --> Model Class Initialized
+INFO - 2017-07-30 14:09:36 --> Model Class Initialized
+INFO - 2017-07-30 14:09:36 --> Model Class Initialized
+INFO - 2017-07-30 14:09:36 --> Model Class Initialized
+ERROR - 2017-07-30 14:09:36 --> Severity: Notice --> Array to string conversion /usr/share/peach/app/controllers/Guest.php 159
+INFO - 2017-07-30 14:09:36 --> $post_kept DATA::Array
+INFO - 2017-07-30 14:09:36 --> Config Class Initialized
+INFO - 2017-07-30 14:09:36 --> Hooks Class Initialized
+DEBUG - 2017-07-30 14:09:36 --> UTF-8 Support Enabled
+INFO - 2017-07-30 14:09:36 --> Utf8 Class Initialized
+INFO - 2017-07-30 14:09:36 --> URI Class Initialized
+INFO - 2017-07-30 14:09:36 --> Router Class Initialized
+INFO - 2017-07-30 14:09:36 --> Output Class Initialized
+INFO - 2017-07-30 14:09:36 --> Security Class Initialized
+DEBUG - 2017-07-30 14:09:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 14:09:36 --> Input Class Initialized
+INFO - 2017-07-30 14:09:36 --> Language Class Initialized
+INFO - 2017-07-30 14:09:36 --> Loader Class Initialized
+INFO - 2017-07-30 14:09:36 --> Helper loaded: url_helper
+INFO - 2017-07-30 14:09:36 --> Helper loaded: date_helper
+INFO - 2017-07-30 14:09:36 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 14:09:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 14:09:36 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 14:09:36 --> Controller Class Initialized
+INFO - 2017-07-30 14:09:36 --> Helper loaded: form_helper
+INFO - 2017-07-30 14:09:36 --> Form Validation Class Initialized
+INFO - 2017-07-30 14:09:36 --> User Agent Class Initialized
+INFO - 2017-07-30 14:09:36 --> Helper loaded: security_helper
+INFO - 2017-07-30 14:09:36 --> Model Class Initialized
+INFO - 2017-07-30 14:09:36 --> Model Class Initialized
+INFO - 2017-07-30 14:09:36 --> Model Class Initialized
+INFO - 2017-07-30 14:09:36 --> Model Class Initialized
+INFO - 2017-07-30 14:09:36 --> Model Class Initialized
+INFO - 2017-07-30 14:09:36 --> Final output sent to browser
+DEBUG - 2017-07-30 14:09:36 --> Total execution time: 0.0380
+INFO - 2017-07-30 14:09:37 --> Config Class Initialized
+INFO - 2017-07-30 14:09:37 --> Hooks Class Initialized
+DEBUG - 2017-07-30 14:09:37 --> UTF-8 Support Enabled
+INFO - 2017-07-30 14:09:37 --> Utf8 Class Initialized
+INFO - 2017-07-30 14:09:37 --> URI Class Initialized
+INFO - 2017-07-30 14:09:37 --> Router Class Initialized
+INFO - 2017-07-30 14:09:37 --> Output Class Initialized
+INFO - 2017-07-30 14:09:37 --> Security Class Initialized
+DEBUG - 2017-07-30 14:09:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 14:09:37 --> Input Class Initialized
+INFO - 2017-07-30 14:09:37 --> Language Class Initialized
+INFO - 2017-07-30 14:09:37 --> Loader Class Initialized
+INFO - 2017-07-30 14:09:37 --> Helper loaded: url_helper
+INFO - 2017-07-30 14:09:37 --> Helper loaded: date_helper
+INFO - 2017-07-30 14:09:37 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 14:09:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 14:09:37 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 14:09:37 --> Controller Class Initialized
+INFO - 2017-07-30 14:09:37 --> Helper loaded: form_helper
+INFO - 2017-07-30 14:09:37 --> Form Validation Class Initialized
+INFO - 2017-07-30 14:09:37 --> Helper loaded: html_helper
+INFO - 2017-07-30 14:09:37 --> Helper loaded: file_helper
+INFO - 2017-07-30 14:09:37 --> Model Class Initialized
+INFO - 2017-07-30 14:09:37 --> Model Class Initialized
+ERROR - 2017-07-30 14:09:37 --> Severity: Notice --> Undefined property: stdClass::$title /usr/share/peach/app/views/templates/hkt/ads.php 8
+INFO - 2017-07-30 14:09:37 --> File loaded: /usr/share/peach/app/views/templates/hkt/ads.php
+INFO - 2017-07-30 14:09:37 --> Final output sent to browser
+DEBUG - 2017-07-30 14:09:37 --> Total execution time: 0.0124
+INFO - 2017-07-30 17:20:27 --> Config Class Initialized
+INFO - 2017-07-30 17:20:27 --> Hooks Class Initialized
+DEBUG - 2017-07-30 17:20:27 --> UTF-8 Support Enabled
+INFO - 2017-07-30 17:20:27 --> Utf8 Class Initialized
+INFO - 2017-07-30 17:20:27 --> URI Class Initialized
+INFO - 2017-07-30 17:20:27 --> Router Class Initialized
+INFO - 2017-07-30 17:20:27 --> Output Class Initialized
+INFO - 2017-07-30 17:20:27 --> Security Class Initialized
+DEBUG - 2017-07-30 17:20:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 17:20:27 --> Input Class Initialized
+INFO - 2017-07-30 17:20:27 --> Language Class Initialized
+INFO - 2017-07-30 17:20:27 --> Loader Class Initialized
+INFO - 2017-07-30 17:20:27 --> Helper loaded: url_helper
+INFO - 2017-07-30 17:20:27 --> Helper loaded: date_helper
+INFO - 2017-07-30 17:20:27 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 17:20:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 17:20:27 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 17:20:27 --> Controller Class Initialized
+INFO - 2017-07-30 17:20:27 --> Helper loaded: form_helper
+INFO - 2017-07-30 17:20:27 --> Form Validation Class Initialized
+INFO - 2017-07-30 17:20:27 --> User Agent Class Initialized
+INFO - 2017-07-30 17:20:27 --> Helper loaded: security_helper
+INFO - 2017-07-30 17:20:27 --> Model Class Initialized
+INFO - 2017-07-30 17:20:27 --> Model Class Initialized
+INFO - 2017-07-30 17:20:27 --> Model Class Initialized
+INFO - 2017-07-30 17:20:27 --> Model Class Initialized
+INFO - 2017-07-30 17:20:27 --> Model Class Initialized
+ERROR - 2017-07-30 17:20:27 --> Severity: Notice --> Array to string conversion /usr/share/peach/app/controllers/Guest.php 159
+INFO - 2017-07-30 17:20:27 --> $post_kept DATA::Array
+INFO - 2017-07-30 17:20:44 --> Config Class Initialized
+INFO - 2017-07-30 17:20:44 --> Hooks Class Initialized
+DEBUG - 2017-07-30 17:20:44 --> UTF-8 Support Enabled
+INFO - 2017-07-30 17:20:44 --> Utf8 Class Initialized
+INFO - 2017-07-30 17:20:44 --> URI Class Initialized
+INFO - 2017-07-30 17:20:44 --> Router Class Initialized
+INFO - 2017-07-30 17:20:44 --> Output Class Initialized
+INFO - 2017-07-30 17:20:44 --> Security Class Initialized
+DEBUG - 2017-07-30 17:20:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 17:20:44 --> Input Class Initialized
+INFO - 2017-07-30 17:20:44 --> Language Class Initialized
+INFO - 2017-07-30 17:20:44 --> Loader Class Initialized
+INFO - 2017-07-30 17:20:44 --> Helper loaded: url_helper
+INFO - 2017-07-30 17:20:44 --> Helper loaded: date_helper
+INFO - 2017-07-30 17:20:44 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 17:20:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 17:20:44 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 17:20:44 --> Controller Class Initialized
+INFO - 2017-07-30 17:20:44 --> Helper loaded: form_helper
+INFO - 2017-07-30 17:20:44 --> Form Validation Class Initialized
+INFO - 2017-07-30 17:20:44 --> User Agent Class Initialized
+INFO - 2017-07-30 17:20:44 --> Helper loaded: security_helper
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+ERROR - 2017-07-30 17:20:44 --> Severity: Notice --> Array to string conversion /usr/share/peach/app/controllers/Guest.php 159
+INFO - 2017-07-30 17:20:44 --> $post_kept DATA::Array
+INFO - 2017-07-30 17:20:44 --> Config Class Initialized
+INFO - 2017-07-30 17:20:44 --> Hooks Class Initialized
+DEBUG - 2017-07-30 17:20:44 --> UTF-8 Support Enabled
+INFO - 2017-07-30 17:20:44 --> Utf8 Class Initialized
+INFO - 2017-07-30 17:20:44 --> URI Class Initialized
+INFO - 2017-07-30 17:20:44 --> Router Class Initialized
+INFO - 2017-07-30 17:20:44 --> Output Class Initialized
+INFO - 2017-07-30 17:20:44 --> Security Class Initialized
+DEBUG - 2017-07-30 17:20:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 17:20:44 --> Input Class Initialized
+INFO - 2017-07-30 17:20:44 --> Language Class Initialized
+INFO - 2017-07-30 17:20:44 --> Loader Class Initialized
+INFO - 2017-07-30 17:20:44 --> Helper loaded: url_helper
+INFO - 2017-07-30 17:20:44 --> Helper loaded: date_helper
+INFO - 2017-07-30 17:20:44 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 17:20:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 17:20:44 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 17:20:44 --> Controller Class Initialized
+INFO - 2017-07-30 17:20:44 --> Helper loaded: form_helper
+INFO - 2017-07-30 17:20:44 --> Form Validation Class Initialized
+INFO - 2017-07-30 17:20:44 --> User Agent Class Initialized
+INFO - 2017-07-30 17:20:44 --> Helper loaded: security_helper
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+INFO - 2017-07-30 17:20:44 --> Final output sent to browser
+DEBUG - 2017-07-30 17:20:44 --> Total execution time: 0.0150
+INFO - 2017-07-30 17:20:44 --> Config Class Initialized
+INFO - 2017-07-30 17:20:44 --> Hooks Class Initialized
+DEBUG - 2017-07-30 17:20:44 --> UTF-8 Support Enabled
+INFO - 2017-07-30 17:20:44 --> Utf8 Class Initialized
+INFO - 2017-07-30 17:20:44 --> URI Class Initialized
+INFO - 2017-07-30 17:20:44 --> Router Class Initialized
+INFO - 2017-07-30 17:20:44 --> Output Class Initialized
+INFO - 2017-07-30 17:20:44 --> Security Class Initialized
+DEBUG - 2017-07-30 17:20:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-07-30 17:20:44 --> Input Class Initialized
+INFO - 2017-07-30 17:20:44 --> Language Class Initialized
+INFO - 2017-07-30 17:20:44 --> Loader Class Initialized
+INFO - 2017-07-30 17:20:44 --> Helper loaded: url_helper
+INFO - 2017-07-30 17:20:44 --> Helper loaded: date_helper
+INFO - 2017-07-30 17:20:44 --> Database Driver Class Initialized
+DEBUG - 2017-07-30 17:20:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-07-30 17:20:44 --> Session: Class initialized using 'files' driver.
+INFO - 2017-07-30 17:20:44 --> Controller Class Initialized
+INFO - 2017-07-30 17:20:44 --> Helper loaded: form_helper
+INFO - 2017-07-30 17:20:44 --> Form Validation Class Initialized
+INFO - 2017-07-30 17:20:44 --> Helper loaded: html_helper
+INFO - 2017-07-30 17:20:44 --> Helper loaded: file_helper
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+INFO - 2017-07-30 17:20:44 --> Model Class Initialized
+ERROR - 2017-07-30 17:20:44 --> Severity: Notice --> Undefined property: stdClass::$title /usr/share/peach/app/views/templates/hkt/ads.php 8
+INFO - 2017-07-30 17:20:44 --> File loaded: /usr/share/peach/app/views/templates/hkt/ads.php
+INFO - 2017-07-30 17:20:44 --> Final output sent to browser
+DEBUG - 2017-07-30 17:20:44 --> Total execution time: 0.0129
